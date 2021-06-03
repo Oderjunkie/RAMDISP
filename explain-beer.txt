@@ -1,0 +1,31 @@
+[P
+  [
+    [[[[[[[[[[[]]]]]]]]]]] - 10
+    [* - multiply
+      [[[[[[[[[[[]]]]]]]]]]] - 10
+    ]
+    [S - Swap
+      [-1]
+    ]
+    R - Range
+    A - Anti
+    [M - Map
+      [D - Disperse
+        [
+          [S - Swap (so the number is printed before the lyrics, and not after)
+            [; bottles of beer on the wall!\n\n]
+          ]
+          [S - Swap (so the number is printed before the lyrics, and not after)
+            [; bottles of beer on the wall,\n]
+          ]
+          [S - Swap (so the number is printed before the lyrics, and not after)
+            [; bottles of beer!\nTake one down, pass it around,\n]
+          ]
+        ]
+      ]
+    ]
+    [I - Ignore (so it doesn't print an array of Nones before the lyrics.)
+      [;No more bottles of beer on the wall!\n\nNo more bottles of beer on the wall,\nNo more bottles of beer!\nGo to the store and buy some more,\n99 bottles of beer on the wall!]
+    ]
+  ]
+]

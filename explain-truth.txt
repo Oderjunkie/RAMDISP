@@ -1,0 +1,15 @@
+[P - pipes through the following array
+  [
+    : - user input as int
+    ~ - negate (0-x)
+    R - range (range(-1) causes an infnite loop)
+    [M - for every element, (Map)
+      [I - ignore the element (Ignore)
+        [;1] - print '1' (:/;, I/O)
+      ]
+    ]
+    [I - ignore the result of the map
+      [;0] - print '0'
+    ]
+  ]
+]
