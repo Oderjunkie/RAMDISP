@@ -7,13 +7,13 @@
 **RAMDISP** is an esolang made by [User:Otesunki](https://esolangs.org/wiki/User:Otesunki) ([talk](https://esolangs.org/w/index.php?title=User_talk:Otesunki)).
 
 **Contents**
-* Instructions
-* Arithmetic with arrays
-* Code examples
-  1. Hello World
-  2. Truth Machine
-  3. 99 Bottles of beer
-* Interpreters
+1. Instructions
+2. Arithmetic with arrays
+3. Code examples
+    1. Hello World
+    2. Truth Machine
+    3. 99 Bottles of beer
+4. Interpreters
 
 # Instructions
 
