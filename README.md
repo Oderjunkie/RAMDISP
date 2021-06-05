@@ -35,7 +35,6 @@
 |`%[ab]`|Modulo: Divides a by b, and returns the remainder|
 
 # Arithmetic with arrays
----
 
 Numbers are represented by nested arrays, so 0 is [], 1 is [[]], 2 is [[[]]], etc... The code
 
@@ -44,7 +43,6 @@ Numbers are represented by nested arrays, so 0 is [], 1 is [[]], 2 is [[[]]], et
 calculates 2*3, and returns it.
 
 # Code examples
----
 
 ## Hello World
     [;[Hello, World!]]
@@ -64,5 +62,4 @@ calculates 2*3, and returns it.
     99 bottles of beer on the wall!]]]]
 
 # Interpreters
----
 [RAMDISP on GitHub](https://github.com/Oderjunkie/RAMDISP/)
