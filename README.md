@@ -1,5 +1,4 @@
 # RAMDISP
----
 
 *This is still a work in progress. It may be changed in the future.*
 
