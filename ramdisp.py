@@ -104,7 +104,7 @@ def execcode(source):
         if func=='*':
             return parseval(args[0]) * parseval(args[1])
         if func=='/':
-            return parseval(args[0]) // parseval(args[1])
+            return parseval(args[0]) / parseval(args[1])
         if func=='%':
             return parseval(args[0]) % parseval(args[1])
 
